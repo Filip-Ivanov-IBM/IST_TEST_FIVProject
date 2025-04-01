@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: IST_TEST_FIVProject
+  gitServerName: IST_TEST_FIV
+  gitUrl: https://github.com/Filip-Ivanov-IBM
+  gitUsername: Filip-Ivanov-IBM
+  gitBranch: main
